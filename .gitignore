@@ -1,0 +1,16 @@
+*.exe
+*.apk
+*.zip
+*.pdb
+release/
+**/build/
+**/keys/
+*.jks
+*.keystore
+**/signing-password.txt
+**/data.json
+**/data.tmp
+**/backup-*.json
+**/before-*.json
+.vs/
+.idea/
